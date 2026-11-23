@@ -707,6 +707,10 @@
 	status = "okay";
 };
 
+&q6_region {
+	status = "okay";
+};
+
 &q6v5_wcss {
 	status = "okay";
 };
